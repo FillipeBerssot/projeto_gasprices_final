@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.env.*
+.venv/
+venv/
+ENV/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+.streamlit/secrets.toml
