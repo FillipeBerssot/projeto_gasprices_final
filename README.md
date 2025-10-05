@@ -21,9 +21,16 @@
 
 ---
 
-> **Print/GIF do app (opcional):**  
-> Coloque um arquivo em `docs/screenshot.png` ou `docs/demo.gif` e adicione:  
-> `![Demo do Dashboard](docs/screenshot.png)`
+> **Prints do app:**  
+<details>
+  <summary>📸 Ver mais capturas de tela</summary>
+  
+  ![Demo do Dashboard](docs/screenshot-home.png)
+
+  ![Volatilidade](docs/screenshot-volatilidade.png)
+  
+  ![Evolução temporal](docs/screenshot-temporal.png)
+</details>
 
 ---
 
