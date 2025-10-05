@@ -21,7 +21,7 @@
 
 ---
 
-> ## Prints do app:  
+## 📸 Prints do app:  
 <details>
   <summary>📸 Ver mais capturas de tela</summary>
 
