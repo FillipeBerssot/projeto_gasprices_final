@@ -3,3 +3,4 @@ streamlit
 plotly
 openpyxl
 numpy
+pyarrow

@@ -36,7 +36,7 @@ div[data-testid="column"]:nth-of-type(2) {      /* é a coluna do meio nesse blo
 """, unsafe_allow_html=True)
 
 # Carregamento de dados com cache
-@st.cache_data
+@st.cache_data(ttl=3600)
 def get_data():
     return load_and_clean_data(FILE_NAME)
 

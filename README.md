@@ -59,6 +59,7 @@ projeto_gasprices_final/
 - **plotly** (gráficos interativos)
 - **Streamlit** (dashboard)
 - **openpyxl** (leitura Excel)
+- **Pyarrow** (Engine para Parquet)
 
 ---
 
