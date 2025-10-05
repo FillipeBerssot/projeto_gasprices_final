@@ -1,4 +1,3 @@
-import pandas as pd
 from src.data_cleaning import load_and_clean_data
 
 
