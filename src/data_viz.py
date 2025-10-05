@@ -1,10 +1,6 @@
-# Este módulo contém as funções para gerar todos os gráficos interativos, usando Plotly.
-
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
-import pandas as pd
-import numpy as np
 
 
 # Divider vertical de altura fixa

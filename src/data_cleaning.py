@@ -1,5 +1,3 @@
-# Limpeza do DataSet
-
 import pandas as pd
 import numpy as np
 

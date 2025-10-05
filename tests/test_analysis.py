@@ -1,5 +1,5 @@
-from data_analysis import calcular_faixa_anual, preparar_comparacao_temporal, preco_mais_barato_atual, FILE_NAME
-from data_cleaning import load_and_clean_data
+from src.data_analysis import calcular_faixa_anual, preparar_comparacao_temporal, preco_mais_barato_atual, FILE_NAME
+from src.data_cleaning import load_and_clean_data
 
 
 PRODUTO_TESTE = 'GASOLINA COMUM'

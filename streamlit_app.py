@@ -1,10 +1,7 @@
-# Este é o arquivo principal que monta o Dashboard e será executado no terminal.
-
 import streamlit as st
-import pandas as pd
 
-from data_cleaning import load_and_clean_data
-from data_analysis import (
+from src.data_cleaning import load_and_clean_data
+from src.data_analysis import (
     calcular_faixa_anual,
     preparar_comparacao_temporal,
     preco_mais_barato_atual,
@@ -13,7 +10,7 @@ from data_analysis import (
     preco_mais_caro_anual,
     FILE_NAME
 )
-from data_viz import plot_comparacao_temporal, plot_faixa_anual, vr
+from src.data_viz import plot_comparacao_temporal, plot_faixa_anual, vr
 
 
 # Configuração da pagina:

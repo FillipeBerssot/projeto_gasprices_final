@@ -1,10 +1,8 @@
-# Este módulo contém as funções que realizam os cálculos e as métricas principais.
-
 import pandas as pd
-from data_cleaning import load_and_clean_data
+from src.data_cleaning import load_and_clean_data
 
 
-FILE_NAME = 'data_gas_mensal_2013-2025.xlsx'
+FILE_NAME = 'data/data_gas_mensal_2013-2025.xlsx'
 
 # Calculo de faixa anula (maximo e minimo):
 def calcular_faixa_anual(produto, ano):
