@@ -21,10 +21,10 @@
 
 ---
 
-> **Prints do app:**  
+> ## Prints do app:  
 <details>
   <summary>📸 Ver mais capturas de tela</summary>
-  
+
   ![Demo do Dashboard](docs/screenshot-home.png)
 
   ![Volatilidade](docs/screenshot-volatilidade.png)
